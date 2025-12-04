@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>829.895.144</profit>
+        <movieGenre>Science Fiction</movieGenre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Spirited Away</movieTitle>
+        <profit>383.397.782</profit>
+        <movieGenre>Animation</movieGenre>
+        <releaseDate>2001-07-20</releaseDate>
+        <platform>DVD</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>701.729.206</profit>
+        <movieGenre>Science Fiction</movieGenre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Streaming</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Parasite</movieTitle>
+        <profit>266.890.000</profit>
+        <movieGenre>Thriller</movieGenre>
+        <releaseDate>2019-05-30</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+</movies>
